@@ -1,0 +1,15 @@
+names:
+- person
+- rider
+- car
+- bus
+- truck
+- bike
+- motor
+- traffic_light
+- traffic sign
+- train
+nc: 10
+path: /kaggle/input/bdd100k-for-yolov5/bdd100k
+val: /kaggle/input/bdd100k-for-yolov5/bdd100k/images/val
+train: /kaggle/input/bdd100k-for-yolov5/bdd100k/images/train
